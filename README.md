@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/thinguyensde" target="_blank"><img src="https://img.shields.io/twitter/follow/thinguyensde?logo=twitter&style=for-the-badge" alt="thinguyensde" /></a> </p>
 
-- 📫 How to reach me **tttn.tn13@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/thi-nguyen-1310](https://www.linkedin.com/in/thi-nguyen-1310)
+📫 How to reach me **tttn.tn13@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
