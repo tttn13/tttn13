@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Thi Nguyen</h1>
 <h3 align="center">I love to automate stuff and make random apps 🤓</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tttn13&title=Commit,Repositories" alt="tttn13" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tttn13&title=Commit,Repositories&theme=oldie" alt="tttn13" /></a> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tttn13&title=Commit,Repositories&theme=oldie&no-frame=true
 " alt="tttn13" /></a> </p>
-
-<p align="left"> [![trophy](https://github-profile-trophy.vercel.app/?username=tttn13)](https://github.com/tttn13/github-profile-trophy)</p>
-
 
 
 <p align="left"> <a href="https://twitter.com/thinguyensde" target="blank"><img src="https://img.shields.io/twitter/follow/thinguyensde?logo=twitter&style=for-the-badge" alt="thinguyensde" /></a> </p>
