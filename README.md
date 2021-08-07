@@ -6,6 +6,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tttn13&title=Commit,Repositories&theme=oldie&no-frame=true
 " alt="tttn13" /></a> </p>
 
+<p align="left"> [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)</p>
+
+
+
 <p align="left"> <a href="https://twitter.com/thinguyensde" target="blank"><img src="https://img.shields.io/twitter/follow/thinguyensde?logo=twitter&style=for-the-badge" alt="thinguyensde" /></a> </p>
 
 - 📫 How to reach me **tttn.tn13@gmail.com**
