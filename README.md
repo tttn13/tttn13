@@ -4,8 +4,9 @@
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=tttn13&title=Commit,Repositories&theme=oldie&no-frame=true" alt="tttn13" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/thinguyensde" target="_blank"><img src="https://img.shields.io/twitter/follow/thinguyensde?logo=twitter&style=for-the-badge" alt="thinguyensde" /></a> </p>
+<p align="left">👩‍💻 <a href="https://tttn13.github.io/developerFolio/" target="_blank"><b>Visit my website</b></a> </p>
 
-📫 How to reach me **tttn.tn13@gmail.com**
+📩 **tttn.tn13@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
