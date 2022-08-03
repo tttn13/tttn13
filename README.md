@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Thi Nguyen</h1>
-<p>I love to automate stuff and make random apps 🤓. I am passionate about developing software solutions using JavaScript, ReactJS, NodeJS and SQL.</p>
+<p>I love to automate stuff and make random apps 🤓. I am passionate about developing software solutions that can streamline the process.</p>
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=tttn13&title=Commit,Repositories&theme=oldie&no-frame=true" alt="tttn13" /></a> </p>
 
