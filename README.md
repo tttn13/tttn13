@@ -11,7 +11,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
 
 
-<p align="left">👩‍💻 <a href="https://tttn13.github.io/web/" target="_blank"><b>Visit my website</b></a> </p>
+<p align="left">👩‍💻 <a href="https://thinguyen.framer.website/" target="_blank"><b>Visit my website</b></a> </p>
 
 📩 **tttn.tn13@gmail.com**
 
