@@ -7,7 +7,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=ThiNguyenSDE)
 [![Linkedin: thinguyen](https://img.shields.io/badge/-thinguyen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://linkedin.com/in/thi-nguyen-1310/)](http://linkedin.com/in/thi-nguyen-1310)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=http://tttn13.github.io/web/)](http://tttn13.github.io/web/)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://thinguyen.framer.website/)](http://tttn13.github.io/web/)
 ![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
 
 
